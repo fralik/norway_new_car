@@ -1,0 +1,10 @@
+-r requirements.txt
+
+bandit
+black
+isort
+mypy
+pre-commit
+pre-commit-hooks
+types-requests
+pip-tools

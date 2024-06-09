@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.pyc
+*.py[cod]
+*$py.class
+
+# Visual studio code debug configurations
+.vscode/launch.json
+.vscode/
+!.vscode/settings.json
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+*.joblib
