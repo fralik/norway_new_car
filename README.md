@@ -4,7 +4,7 @@ This PyShiny application is designed to gather insights about used cars sold in 
 
 The app collects data about cars in a joblib file.
 
-[!interface screenshot](img/main_page.png "App screenshot")
+![interface screenshot](img/main_page.png "App screenshot")
 
 ## Usage
 
